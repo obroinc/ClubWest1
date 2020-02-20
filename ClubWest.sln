@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubWest", "ClubWest.csproj", "{A3BE842C-2482-4EA4-BF9E-49702343E11A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubWest", "ClubWest.csproj", "{A3BE842C-2482-4EA4-BF9E-49702343E11A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubWest.DataAccess", "..\ClubWest.DataAccess\ClubWest.DataAccess.csproj", "{C1274546-FCE0-420C-8A13-0449FFE10ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubWest.DataAccess", "..\ClubWest.DataAccess\ClubWest.DataAccess.csproj", "{C1274546-FCE0-420C-8A13-0449FFE10ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubWest.Models", "..\ClubWest.Models\ClubWest.Models.csproj", "{EAEDA25D-6137-4550-8F3A-1FADC88CF9D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubWest.Models", "..\ClubWest.Models\ClubWest.Models.csproj", "{EAEDA25D-6137-4550-8F3A-1FADC88CF9D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubWest.Utility", "..\ClubWest.Utility\ClubWest.Utility.csproj", "{76C94AE3-4E4E-4A7E-BD8F-18364E345F0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubWest.Utility", "..\ClubWest.Utility\ClubWest.Utility.csproj", "{76C94AE3-4E4E-4A7E-BD8F-18364E345F0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
