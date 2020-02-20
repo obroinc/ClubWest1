@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubWest.Models", "..\ClubW
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubWest.Utility", "..\ClubWest.Utility\ClubWest.Utility.csproj", "{76C94AE3-4E4E-4A7E-BD8F-18364E345F0C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{CED65075-9B45-441C-A939-EF84FA659F61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1274546-FCE0-420C-8A13-0449FFE10ECC} = {CED65075-9B45-441C-A939-EF84FA659F61}
+		{EAEDA25D-6137-4550-8F3A-1FADC88CF9D6} = {CED65075-9B45-441C-A939-EF84FA659F61}
+		{76C94AE3-4E4E-4A7E-BD8F-18364E345F0C} = {CED65075-9B45-441C-A939-EF84FA659F61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8428AFB3-1DAA-4B19-8CC8-A2453CE3B24D}
