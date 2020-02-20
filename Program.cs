@@ -11,6 +11,7 @@ namespace ClubWest
 {
     public class Program
     {
+        //this is a test comment
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();

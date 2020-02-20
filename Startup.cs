@@ -16,6 +16,7 @@ using ClubWest.DataAccess;
 
 namespace ClubWest
 {
+    //dlete this comment
     public class Startup
     {
         public Startup(IConfiguration configuration)
